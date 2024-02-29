@@ -6,3 +6,4 @@ const k = {
   name: "prasad",
   age: 90,
 };
+console.log(k);
